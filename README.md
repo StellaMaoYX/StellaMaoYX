@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @StellaMaoYX
 - 👀 I’m interested in Human-Computer Interaction
-- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on the research of Human-Computer Interaction (HCI), especially Human-Robot Interaction (HRI).
 - 📫 How to reach me stellamaoyaxuan@gmail.com
 
